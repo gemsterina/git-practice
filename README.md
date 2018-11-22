@@ -1,0 +1,2 @@
+# git-practice
+Course activity
